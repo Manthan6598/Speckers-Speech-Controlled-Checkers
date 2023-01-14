@@ -14,9 +14,7 @@ The Game is a battle between two Groups : TEAM RED and TEAM WHITE
 TEAM WHITE consists of following Battalions : 
 
 Alpha 
-
 Bravo 
-
 Charlie 
 
 TEAM RED consists of following Battalions : 
