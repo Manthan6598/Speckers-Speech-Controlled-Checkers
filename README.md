@@ -21,15 +21,15 @@ https://www.dropbox.com/s/8dcz31azehbcuss/SPECKERS.mp4?dl=1
  
 Game Screenshots:
 
-Screenshot1:
+Screenshot1: Start Screen 
 
 ![Speckers Game](https://user-images.githubusercontent.com/101986611/212497273-f230c245-de04-4e9d-a0a0-b3f49531e745.png)
 
-Screenshot2:
+Screenshot2: Red Player's Turn 
 
 ![image](https://user-images.githubusercontent.com/101986611/212497480-b1097ee2-1f2f-4aaf-86c3-2b84aae6f0ab.png)
 
-Screenshot3:
+Screenshot3: White Player's Turn
 
 ![image](https://user-images.githubusercontent.com/101986611/212497503-7ccb2db7-9008-45e1-85d9-d5f24a53279d.png)
 
