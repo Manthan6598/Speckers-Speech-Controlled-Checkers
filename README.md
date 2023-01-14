@@ -34,3 +34,9 @@ Screenshot3: White Player's Turn
 ![image](https://user-images.githubusercontent.com/101986611/212497503-7ccb2db7-9008-45e1-85d9-d5f24a53279d.png)
 
 
+Requirements:
+
+Python 3 above 
+Speech Recognition
+Pygame
+PyAudio
