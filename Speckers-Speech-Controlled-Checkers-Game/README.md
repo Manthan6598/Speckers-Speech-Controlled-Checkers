@@ -1,1 +1,0 @@
-# SPECKERS : Speech-Controlled-Game
