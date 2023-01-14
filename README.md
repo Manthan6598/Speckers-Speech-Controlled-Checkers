@@ -13,14 +13,14 @@ The Game is a battle between two Groups : TEAM RED and TEAM WHITE
 
 TEAM WHITE consists of following Battalions : 
 
-Alpha 
-Bravo 
+Alpha, 
+Bravo, 
 Charlie 
 
 TEAM RED consists of following Battalions : 
 
-Falcon 
-Golf 
+Falcon, 
+Golf, 
 Hurricane 
 
 Since ages , both teams RED and WHITE are in quest to annex - 'ATLANTIS - The Midas City'. In order to annex Atlantis both the teams RED and WHITE are in context to get "Delta" and "Echo" Battalions on their side to get an upper hand over each other.
