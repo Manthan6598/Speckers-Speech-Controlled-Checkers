@@ -10,9 +10,64 @@ The Game is been developed using Pygame (Python) and with basic NLP concepts.
 Game Story:
 
 The Game is a battle between two Groups : TEAM RED and TEAM WHITE 
-TEAM WHITE consists of : Alpha , Bravo and Charlie Battalions
-TEAM RED consists of : Falcon , Golf and Hurricane Battalions
-Since ages , both teams RED and WHITE are in quest to annex - 'ATLANTIS - The Midas City'. In order to annex Atlantis both the teams RED and WHITE are in context to get Delta and Echo battalions on their side to get an upper hand over each other.
+
+TEAM WHITE consists of following Battalions : 
+
+Alpha 
+
+Bravo 
+
+Charlie 
+
+TEAM RED consists of following Battalions : 
+
+Falcon 
+
+Golf 
+
+Hurricane 
+
+Since ages , both teams RED and WHITE are in quest to annex - 'ATLANTIS - The Midas City'. In order to annex Atlantis both the teams RED and WHITE are in context to get "Delta" and "Echo" Battalions on their side to get an upper hand over each other.
+
+Rules:
+
+General Rules :
+
+Basic Rules of Speckers : 
+
+https://www.dropbox.com/s/f2ii2k4m73sjf90/Speckers%20GamecRules.pdf?dl=0
+
+------------------------------------------
+Alpha      |0 | 1 | 2 | 3 | 4 | 5 | 6 | 7|
+  ----------------------------------------
+Bravo      |0 | 1 | 2 | 3 | 4 | 5 | 6 | 7|
+  ----------------------------------------
+Charlie    |0 | 1 | 2 | 3 | 4 | 5 | 6 | 7|
+  ----------------------------------------
+Delta      |0 | 1 | 2 | 3 | 4 | 5 | 6 | 7|
+  ----------------------------------------
+Echo       |0 | 1 | 2 | 3 | 4 | 5 | 6 | 7|
+  ----------------------------------------
+Falcon     |0 | 1 | 2 | 3 | 4 | 5 | 6 | 7|
+  ----------------------------------------
+Golf       |0 | 1 | 2 | 3 | 4 | 5 | 6 | 7|
+  ----------------------------------------
+Hurricane  |0 | 1 | 2 | 3 | 4 | 5 | 6 | 7|
+------------------------------------------
+           |0 | 1 | 2 | 3 | 4 | 5 | 6 | 7|
+------------------------------------------
+
+The Game starts with player speaking the command : "START" and ends with player speaking the command : "EXIT"
+
+RED Team is initially starts with game by default. 
+
+Both the Team players needs to speak in the command combination of :
+
+Battalion Name - " Alpha, Bravo , Charlie , Delta, Echo, Falcon, Golf, Hurricane" and
+
+Cell numbers - 0 to 7
+
+Eg: Falcon 3
 
 
 Video Gameplay URL : 
