@@ -37,6 +37,9 @@ Screenshot3: White Player's Turn
 Requirements:
 
 Python 3 above 
+
 Speech Recognition
+
 Pygame
+
 PyAudio
