@@ -40,7 +40,7 @@ Backend Structure of the Checkers Board :
 
 The Game starts with player speaking the command : "START" and ends with player speaking the command : "EXIT"
 
-RED Team is initially starts with game by default. 
+RED Team initially starts with game by default. 
 
 Both the Team players needs to speak in the command combination of :
 
