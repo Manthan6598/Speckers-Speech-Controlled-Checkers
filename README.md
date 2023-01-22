@@ -79,3 +79,5 @@ Speech Recognition
 Pygame
 
 PyAudio
+
+Pyttsx3
